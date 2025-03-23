@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(161, 226, 226);
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.logo{
+    height: 150px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+
+header nav{
+    text-align: center;
+    border: 3px solid rgb(41, 41, 205);
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+header nav a{
+    margin-right: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(41, 41, 205);
+    font-size: 20px;
+}
+
+
+
+
+
+p {
+    font-size: 25px;
+}
+
+header {
+    background-color: white;
+    padding: 20px;
+}
+
+main{
+    text-align: center;
+    padding: 20px;
+}
+
+main img{
+    height: 300px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 40px;
+    border: 3px solid rgb(41, 41, 205);
+}
+
+
+.name{
+    margin-bottom: 20px;
+}
+
+.price, .weight{
+    font-size: 20px;
+}
+
+
+footer{
+    background-color: rgb(17, 7, 61);
+    padding: 40px;
+}
+
+footer nav{
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+}
+
+footer nav a{
+    margin-right: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+footer p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    font-size: 12px;
+}
